@@ -1,0 +1,11 @@
+joblib==1.1.0
+linear-regression==0.1
+numpy==1.23.2
+pandas==1.4.4
+pickle-mixin==1.0.2
+scikit-learn==1.0.2
+scipy==1.9.1
+sklearn==0.0
+streamlit==1.12.2
+virtualenv==20.16.5
+xgboost==0.90
