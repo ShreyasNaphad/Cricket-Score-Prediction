@@ -9,3 +9,4 @@ sklearn==0.0
 streamlit==1.12.2
 virtualenv==20.16.5
 xgboost==0.90
+Pillow==9.2.0
