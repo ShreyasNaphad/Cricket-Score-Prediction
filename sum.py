@@ -70,7 +70,6 @@ with col2:
     st.title('Cricket Score Predictor')
 
 img2 = Image.open('BCCI.png')
-img3 = Image.open('eng.png')
 
 #with st.sidebar.container():
 
