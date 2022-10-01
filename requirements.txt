@@ -1,5 +1,4 @@
 joblib==1.1.0
-linear-regression==0.1
 numpy==1.23.2
 pandas==1.4.4
 pickle-mixin==1.0.2
