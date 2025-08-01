@@ -75,7 +75,7 @@ def load_css_and_background():
     if bg_image_base64:
         background_style = f'background-image: url("data:image/jpeg;base64,{bg_image_base64}");'
     else:
-        st.warning("`background.jpg` not found! Displaying a plain dark background.")
+        #st.warning("`background.jpg` not found! Displaying a plain dark background.")
         background_style = "background-color: #0f0c29;"
 
     css = f"""
