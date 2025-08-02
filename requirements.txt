@@ -1,4 +1,5 @@
-xgboost==1.4.2
+xgboost==0.90
 streamlit
 scikit-learn
+
 
